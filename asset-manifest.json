@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Hnin4646/travel-bag-react.git/static/css/main.708779c1.css",
-    "main.js": "/Hnin4646/travel-bag-react.git/static/js/main.d6e14405.js",
-    "index.html": "/Hnin4646/travel-bag-react.git/index.html",
-    "main.708779c1.css.map": "/Hnin4646/travel-bag-react.git/static/css/main.708779c1.css.map",
-    "main.d6e14405.js.map": "/Hnin4646/travel-bag-react.git/static/js/main.d6e14405.js.map"
+    "main.css": "/travel-bag-react/static/css/main.708779c1.css",
+    "main.js": "/travel-bag-react/static/js/main.d6e14405.js",
+    "index.html": "/travel-bag-react/index.html",
+    "main.708779c1.css.map": "/travel-bag-react/static/css/main.708779c1.css.map",
+    "main.d6e14405.js.map": "/travel-bag-react/static/js/main.d6e14405.js.map"
   },
   "entrypoints": [
     "static/css/main.708779c1.css",
